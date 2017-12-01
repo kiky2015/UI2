@@ -24,6 +24,8 @@ import java.util.Map;
 
 public class MainActivity extends EuclidActivity {
 
+     //周五测试github
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
